@@ -1,2 +1,2 @@
 #!/bin/bash
-199 Bytes
+("\"Programming is like building a multilingual puzzle")
