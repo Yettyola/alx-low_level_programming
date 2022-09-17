@@ -11,7 +11,7 @@
 
 int _isupper(int c)
 {
-	int i = isupport(c);
+	int i = isupper(c);
 
 	if (i > 0)
 	{
