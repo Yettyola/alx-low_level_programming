@@ -1,5 +1,5 @@
 #include "main.h"
-#include <ctype.h>
+#include <stdio.h>
 
 /**
  * _isupper - function that checks for alphabetic character
