@@ -22,6 +22,5 @@ int main(void)
 		divisor += 1;
 	}
 	printf("%ld\n", larg_prim);
-	re
-turn (0);
+	return (0);
 }
