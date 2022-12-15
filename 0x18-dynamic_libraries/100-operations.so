@@ -1,4 +1,4 @@
-~/0x18$ cat 100-tests.py
+julien@ubuntu:~/0x18$ cat 100-tests.py
 import random
 import ctypes
 
@@ -34,3 +34,4 @@ julien@ubuntu:~/0x18$ python3 100-tests.py
 39 x -62 = -2418
 39 / -62 = 0
 39 % -62 = 39
+julien@ubuntu:~/0x18$
